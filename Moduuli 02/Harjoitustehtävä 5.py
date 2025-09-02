@@ -7,3 +7,5 @@ kilogrammat = int(grammat // 1000)
 jaljella_grammat = grammat % 1000
 print("Massa nykymittojen mukaan: ")
 print(f"{kilogrammat} kilogrammaa ja {jaljella_grammat:.2f} grammaa.")
+
+#muutos
