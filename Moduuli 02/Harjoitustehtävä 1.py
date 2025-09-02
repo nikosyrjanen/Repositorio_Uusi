@@ -1,2 +1,2 @@
-name = "Niko Syrjänen"
-print(f"Hei, Niko Syrjänen!")
+name = input("Anna nimesi: ").strip()
+print(f"Terve, {name}!")
